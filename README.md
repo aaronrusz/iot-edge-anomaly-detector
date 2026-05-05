@@ -1,6 +1,6 @@
 # IoT/Edge Device Anomaly Detector
 
-A specialized anomaly detection utility for IoT and edge networks extracted from `network-anomaly-monitor`.
+A specialized anomaly detection utility for IoT and edge networks.
 
 ## Features
 
